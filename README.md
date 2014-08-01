@@ -13,9 +13,9 @@ Minimizing MVC patterns does bring up many other challenges but I believe this t
 
 ##Contents
 
-Our Stack.md - Contains the technologies and frameworks that this stack decides to use.
+Our Stack.md - Contains the technologies and frameworks that this stack is comprised of.
 
-Study Plan.md - Contains the tutorials that can be used to start using the stack.
+Study Plan.md - Contains the tutorials that are used for implementing the stack.
 
 
 ##What this isn't
