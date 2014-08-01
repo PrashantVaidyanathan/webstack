@@ -23,4 +23,4 @@ Study Plan.md - Contains the tutorials that can be used to start using the stack
 - The best way to make cloud applications - It strictly is the way I make them (there are probably countless better ways to build them)
 - The cloud providers listed are my favorite providers, because I find them extrememly easy to use and the fact that they always have the exact pricing tiers I need. You can use the stack or portions of it with any cloud provider in the market.
 - The stack though might talk a lot of Nodejs, it is hoped that more languages like python, ruby and even PHP can make it into the list. The stack is aimed at being language agnostic.
-- 
+
