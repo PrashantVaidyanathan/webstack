@@ -2,11 +2,11 @@
 
 ## Understanding Nodejs
 
-**Hello World (1 day) **
+**Hello World (1 day)**
 
 Set up nodejs on the system and run the 'Hello  World' script given at [](http://nodejs.org)http://nodejs.org.
 
-**Understanding the HTTP Server (1 day - Let the concepts marinate for sometime) **
+**Understanding the HTTP Server (1 day - Let the concepts marinate for sometime)**
 
 Now that you have a Nodejs node running, learn the basics of a Nodejs HTTP server from here
 
